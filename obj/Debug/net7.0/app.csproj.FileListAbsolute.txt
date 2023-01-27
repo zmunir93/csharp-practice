@@ -1,0 +1,15 @@
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/bin/Debug/net7.0/app
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/bin/Debug/net7.0/app.deps.json
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/bin/Debug/net7.0/app.runtimeconfig.json
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/bin/Debug/net7.0/app.dll
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/bin/Debug/net7.0/app.pdb
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.dll
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/refint/app.dll
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.pdb
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/Users/zeshanmunir/Documents/Coding Projects/CSharp-Projects/app/obj/Debug/net7.0/ref/app.dll
